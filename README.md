@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fer1495
+- bilingüe, Español y pura pendejada 
 - 👀 I’m interested in programing 
-- - 🌱 I’m currently learning c++, bash, html, python, css, etc.
+-  🌱 I’m currently learning c++, bash, html, python, css, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
